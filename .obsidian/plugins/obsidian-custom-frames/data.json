@@ -1,0 +1,71 @@
+{
+  "frames": [
+    {
+      "url": "https://www.bilibili.com/",
+      "displayName": "B站",
+      "icon": "bold",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.bing.com/",
+      "displayName": "Edge",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://web.baimiaoapp.com/",
+      "displayName": "OCR",
+      "icon": "book-open-check",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.zhijiantime.com/home/",
+      "displayName": "指尖时光",
+      "icon": "alarm-check",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://weread.qq.com/",
+      "displayName": "微信读书",
+      "icon": "book-marked",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://translate.google.com/?hl=zh-CN",
+      "displayName": "翻译",
+      "icon": "focus",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 0
+}

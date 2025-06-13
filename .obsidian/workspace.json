@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "3bf23a1df2e13bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d99d585b07831cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35c23512078d013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day/2025-05-24分析2025五月底的安排.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-24分析2025五月底的安排"
+            }
+          },
+          {
+            "id": "d6af303afafb4bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扩散模型/01 chectData.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01 chectData"
+            }
+          },
+          {
+            "id": "caaca36a4d07a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扩散模型/01 chectData.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01 chectData"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0a921512e6286b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d1d4b91cc3fb373",
+        "type": "tabs",
+        "dimension": 36.61971830985916,
+        "children": [
+          {
+            "id": "ee807ce5cfa1ed0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f3a728bbcd9e209",
+        "type": "tabs",
+        "dimension": 63.38028169014085,
+        "children": [
+          {
+            "id": "eb6957b9c3178479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4c2602487a414a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "25f3b2f95a358c02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "fd8fe0978fe83a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7166f1e3cd20a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f432db115e7db00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "扩散模型/01 chectData.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01 chectData 的大纲"
+            }
+          },
+          {
+            "id": "a44523938062fba5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "e439ca69814e98f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/DOM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "DOM 的反向链接列表"
+            }
+          },
+          {
+            "id": "9625eff567acdfce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "思政/2025.03民主评审党会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025.03民主评审党会 的出链列表"
+            }
+          },
+          {
+            "id": "4aa0a548aa62b719",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-指尖时光",
+              "state": {},
+              "icon": "lucide-alarm-check",
+              "title": "指尖时光"
+            }
+          },
+          {
+            "id": "e8ef5188d5d7e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-翻译",
+              "state": {},
+              "icon": "lucide-focus",
+              "title": "翻译"
+            }
+          },
+          {
+            "id": "6bac982ebdbd585e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "503f4b1565a40f18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-custom-frames:Open 微信读书": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-custom-frames:Open Edge": false,
+      "obsidian-custom-frames:Open OCR": false,
+      "obsidian-custom-frames:Open 指尖时光": false,
+      "obsidian-custom-frames:Open 翻译": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "caaca36a4d07a5c8",
+  "lastOpenFiles": [
+    "扩散模型/脑生成代码运行.md",
+    "扩散模型/01 chectData.md",
+    "扩散模型/02 K折交叉验证.md",
+    "扩散模型/assets/BrainUSL_run.ipynb",
+    "扩散模型/assets/BrainUSL.ipynb",
+    "扩散模型/assets/train_val_plot.png",
+    "Day/2025-05-24分析2025五月底的安排.md",
+    "Linux语法/快速打开jupyter.md",
+    "Linux语法",
+    "扩散模型/assets/BrainGSL-pytorch.py",
+    "扩散模型/assets/QQ_1748167560367.png",
+    "扩散模型/assets/BrainUSL.py",
+    "扩散模型/assets/Pasted image 20250525002212.png",
+    "扩散模型/assets",
+    "模板/Templater模板/月报模板.md",
+    "模板/Templater模板",
+    "模板/目录模板.md",
+    "模板/文献阅读.md",
+    "模板/微信读书.md",
+    "模板/学习笔记模板.md",
+    "模板/可批注PDF模板.md",
+    "模板/Todo.md",
+    "模板/mindMap.md",
+    "模板/date.md",
+    "模板",
+    "Day",
+    "欢迎.md",
+    "扩散模型",
+    "Python深度学习/医学影像智能计算实验室/精读论文.md",
+    "Python深度学习/医学影像智能计算实验室/fMRI.md",
+    "Python深度学习/医学影像智能计算实验室/专业词汇.md",
+    "Python深度学习/医学影像智能计算实验室/课题组近年论文.md",
+    "Python深度学习/医学影像智能计算实验室/顶会.md",
+    "Python深度学习/医学影像智能计算实验室/2023BrainUSL Unsupervised Graph Structure Learning for Functional Brain Network Analysis.pdf.md",
+    "Python深度学习/医学影像智能计算实验室/2023A Reference-free Self-supervised Domain Adaptation Framework for Low-quality Fundus Image Enhancement.md",
+    "Python深度学习/医学影像智能计算实验室/组会/2025.03.10.md",
+    "Day/月报/2024-01.md",
+    "开发-前端/01html/attachments/Pasted image 20241230022907.png",
+    "本科阶段毕设/A 脚手架/日志.md",
+    "linux/解压文件.md",
+    "Python深度学习/04大模型、多模态/attachments/QQ_1743475188825.png",
+    "Python深度学习/医学影像智能计算实验室/attachments/Pasted image 20250328155601.png",
+    "Python深度学习/GFN/attachments/Pasted image 20250317170335.png",
+    "Python深度学习/02李沐深度学习课程/attachments/0b7c1aac0459f546f162b973aebf2c84.png",
+    "Python深度学习/04大模型、多模态/attachments/QQ_1740573569346.png",
+    "Python深度学习/04大模型、多模态/attachments/QQ_1740573544446.png",
+    "未命名.canvas"
+  ]
+}

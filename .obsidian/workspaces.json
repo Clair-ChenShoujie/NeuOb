@@ -1,0 +1,201 @@
+{
+  "workspaces": {
+    "蓝调": {
+      "main": {
+        "id": "3bf23a1df2e13bbb",
+        "type": "split",
+        "children": [
+          {
+            "id": "c98864a0197ecf6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c420aee2b67a9275",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "模板/学习笔记模板.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a0a921512e6286b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f3a728bbcd9e209",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb6957b9c3178479",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4c2602487a414a18",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "25f3b2f95a358c02",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "fd8fe0978fe83a36",
+        "type": "split",
+        "children": [
+          {
+            "id": "c7166f1e3cd20a05",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f432db115e7db00",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "模板/学习笔记模板.md"
+                  }
+                }
+              },
+              {
+                "id": "e439ca69814e98f1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "模板/学习笔记模板.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9625eff567acdfce",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "模板/学习笔记模板.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d3593eb818b5d625",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "4aa0a548aa62b719",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-指尖时光",
+                  "state": {}
+                }
+              },
+              {
+                "id": "adca50a13eea5fb9",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-claude",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3b0e3019d9e846c1",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              },
+              {
+                "id": "41c8b05155482cc7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 641.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:创建时间戳笔记": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-custom-frames:Open Edge": false,
+          "obsidian-custom-frames:Open chatGPT": false,
+          "obsidian-custom-frames:Open OCR": false,
+          "obsidian-custom-frames:Open 指尖时光": false,
+          "obsidian-custom-frames:Open 微信读书": false,
+          "obsidian-custom-frames:Open Claude": false,
+          "obsidian-weread-plugin:Weread": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "remotely-save:Remotely Save": false
+        }
+      },
+      "active": "c420aee2b67a9275"
+    }
+  },
+  "active": "蓝调"
+}

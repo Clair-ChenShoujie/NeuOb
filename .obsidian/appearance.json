@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Border",
+  "textFontFamily": "Times New Roman,微软雅黑",
+  "interfaceFontFamily": "Times New Roman,微软雅黑",
+  "accentColor": "#4b17ab",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Text_preview"
+  ],
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSize": 15,
+  "monospaceFontFamily": "Times New Roman,Calibri",
+  "baseFontSizeAction": false,
+  "showViewHeader": true
+}

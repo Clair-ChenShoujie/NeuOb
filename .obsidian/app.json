@@ -1,0 +1,28 @@
+{
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./assets",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "rightToLeft": false,
+  "tabSize": 2,
+  "readableLineLength": true,
+  "useTab": true,
+  "showUnsupportedFiles": true,
+  "autoConvertHtml": true,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true,
+  "useMarkdownLinks": false,
+  "foldHeading": true,
+  "promptDelete": false,
+  "showIndentGuide": true,
+  "defaultViewMode": "source"
+}
