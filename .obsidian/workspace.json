@@ -182,16 +182,6 @@
             }
           },
           {
-            "id": "a44523938062fba5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "e439ca69814e98f1",
             "type": "leaf",
             "state": {
@@ -302,7 +292,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "caaca36a4d07a5c8",
+  "active": "25f3b2f95a358c02",
   "lastOpenFiles": [
     "扩散模型/脑生成代码运行.md",
     "扩散模型/01 chectData.md",
