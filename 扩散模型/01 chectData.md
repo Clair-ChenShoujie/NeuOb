@@ -55,7 +55,7 @@ X = torch.from_numpy(X).permute([0, 2, 1]).numpy()
 Y = np.load(f'./Dataset/new/{source_data}_HC_label.npy')
 ```
 
-
+https://github.com/IntelliDAL/Graph/blob/main/BrainUSL/BrainUSL.py
 ![[BrainUSL.py]]
 ![[BrainGSL-pytorch.py]]
 
