@@ -24,5 +24,6 @@
   "foldHeading": true,
   "promptDelete": false,
   "showIndentGuide": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "newLinkFormat": "shortest"
 }

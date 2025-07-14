@@ -9,4 +9,3 @@ mkdir brain_generation
 unzip brain_generation.zip -d brain_generation
 ```
 
-
