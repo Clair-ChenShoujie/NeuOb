@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扩散模型/03 脑生成代码运行.md",
+                "file": "Python深度学习/03大模型、多模态/06注意力机制.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 脑生成代码运行"
+              "title": "06注意力机制"
             }
           },
           {
-            "id": "addafb272a5141f3",
+            "id": "9cb9a0a2961f607c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.csdn.net/v_JULY_v/article/details/89894058",
+                "title": "如何从RNN起步，一步一步通俗理解LSTM_rnn lstm-CSDN博客",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "如何从RNN起步，一步一步通俗理解LSTM_rnn lstm-CSDN博客"
+            }
+          },
+          {
+            "id": "2f440130d35c7bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "就业/01大模型应用开发的思路.md",
+                "file": "论文阅读/概述.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01大模型应用开发的思路"
+              "title": "概述"
             }
           },
           {
@@ -85,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day/2025-05-24分析2025五月底的安排.md",
+                "file": "论文阅读/概述.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +114,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-24分析2025五月底的安排"
+              "title": "概述"
             }
           },
           {
             "id": "348b759cb3260e75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "就业/java基础/第02章：随堂复习与企业真题（变量与运算符）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "第02章：随堂复习与企业真题（变量与运算符）"
+              "type": "custom-frames-微信读书",
+              "state": {},
+              "icon": "lucide-book-marked",
+              "title": "微信读书"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "贝叶斯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "扩散模型/04模型图.md",
+                "file": "Python深度学习/01李沐深度学习课程/07softmax回归.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04模型图 的大纲"
+              "title": "07softmax回归 的大纲"
             }
           },
           {
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/DOM.md",
+                "file": "Python深度学习/01李沐深度学习课程/07softmax回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "DOM 的反向链接列表"
+              "title": "07softmax回归 的反向链接列表"
             }
           },
           {
@@ -349,53 +349,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "addafb272a5141f3",
+  "active": "e5dbfbeb0cfb4e62",
   "lastOpenFiles": [
-    "Day/2025-05-24分析2025五月底的安排.md",
-    "扩散模型/04模型图.md",
-    "扩散模型/03 脑生成代码运行.md",
-    "扩散模型/assets/main _gai.py",
-    "扩散模型/02 K折交叉验证.md",
-    "扩散模型/01 chectData.md",
+    "论文阅读/概述.md",
+    "扩散模型/05什么是扩散模型.md",
+    "Python深度学习/医学影像智能计算实验室/attachments/Pasted image 20250328155601.png",
+    "Python深度学习/01李沐深度学习课程/07softmax回归.md",
+    "Python深度学习/01李沐深度学习课程/09多层感知机.md",
+    "Python深度学习/02GNN_斯坦福224w/03什么是Embedding.md",
+    "Python深度学习/03大模型、多模态/06注意力机制.md",
+    "Python深度学习/02GNN_斯坦福224w/02GNN的复杂度.md",
+    "Python深度学习/02GNN_斯坦福224w/01单层GNN的3种基本类型.md",
+    "Python深度学习/01李沐深度学习课程/12梯度爆炸、消失.md",
+    "Python深度学习/01李沐深度学习课程/13分布偏移.md",
+    "Python深度学习/01李沐深度学习课程/08对于数据加载的答疑.md",
+    "Python深度学习/01李沐深度学习课程/06线性回归.md",
+    "Python深度学习/01李沐深度学习课程/05自动求导.md",
+    "Python深度学习/01李沐深度学习课程/04创建conda环境.md",
+    "Python深度学习/01李沐深度学习课程/03数据操作.md",
+    "Python深度学习/01李沐深度学习课程/02鲁棒性.md",
+    "Python深度学习/01李沐深度学习课程/01领域.md",
+    "Python深度学习/01李沐深度学习课程/10解决过拟合问题.md",
+    "Python深度学习/01李沐深度学习课程/assets/Pasted image 20250726145843.png",
+    "Python深度学习/01李沐深度学习课程/2023-07-12回归分析.md",
+    "Python深度学习/03大模型、多模态/贝叶斯定理.md",
     "就业/java基础/第02章：随堂复习与企业真题（变量与运算符）.md",
-    "Linux语法/快速打开jupyter.md",
-    "扩散模型/assets/checkData.ipynb",
-    "健康/黄帝内经.emmx.YnGeIl",
-    "健康/黄帝内经.emmx.sUihch",
-    "健康/黄帝内经.emmx.xTmUDp",
-    "健康/黄帝内经.emmx",
-    "健康/黄帝内经.emmx.imDvXr",
-    "健康/黄帝内经.xmind",
-    "健康/黄帝内经.emmx.md",
-    "健康",
-    "就业/java基础/01java基础概述.md",
-    "就业/java基础/assets/陈守杰《Java从入门到精通(JDK17版)》_尚硅谷电子书.pdf",
-    "就业/01大模型应用开发的思路.md",
-    "就业/java基础/第01章：随堂复习与企业真题（Java语言概述）.md",
-    "就业/java基础/Drawing 2025-07-01 21.40.10.excalidraw.md",
-    "就业/java基础/assets/Pasted image 20250616192248.png",
-    "就业/java基础/assets/Pasted image 20250616192235.png",
-    "就业/java基础/第18章：随堂复习与企业真题（JDK8-17新特性）.md",
-    "就业/java基础/第06章：随堂复习与企业真题（面向对象-基础）.md",
-    "就业/java基础/第04章：随堂复习与企业真题（IDEA的安装与使用）.md",
-    "就业/java基础/第03章：随堂复习与企业真题（流程控制语句）.md",
-    "就业/java基础/第17章：随堂复习与企业真题（反射机制）.md",
-    "就业/java基础/第16章：随堂复习与企业真题（网络编程）.md",
-    "就业/java基础/第15章：随堂复习与企业真题（File类与IO流）.md",
-    "就业/java基础/第14章：随堂复习与企业真题（数据结构与集合源码）.md",
-    "就业/java基础/第13章：随堂复习与企业真题（泛型）.md",
-    "就业/java基础/第12章：随堂复习与企业真题（集合框架）.md",
-    "就业/java基础/第11章：随堂复习与企业真题（常用类与基础API）.md",
-    "就业/java基础/第10章：随堂复习与企业真题（多线程）.md",
-    "就业/java基础/第09章：随堂复习与企业真题（异常处理）.md",
-    "就业/java基础/images/image002.jpg",
-    "就业/java基础/images/image-20221214145240412.png",
-    "就业/java基础/images/image-20221212161251100.png",
-    "就业/java基础/images/image-20221203143046926.png",
-    "就业/java基础/images/image-20221203142900528.png",
-    "就业/java基础/images/image-20221115165138209.png",
-    "就业/java基础/images/image-20221115165123046.png",
-    "就业/java基础/images/image-20221115165103208.png",
+    "Python深度学习/03大模型、多模态/NNLM和Word2Vec.md",
+    "Python深度学习/GFN/GFN概述.md",
+    "Python深度学习/03大模型、多模态/迁移学习.md",
+    "Python深度学习/01李沐深度学习课程/11前向传播和反向传播.md",
+    "Python深度学习/03大模型、多模态/assets/QQ_1743475188825.png",
+    "Python深度学习/03大模型、多模态/assets/QQ_1740573569346.png",
+    "Python深度学习/03大模型、多模态/assets/QQ_1740573544446.png",
+    "Python深度学习/03大模型、多模态/assets/QQ_1740571675936.png",
+    "Python深度学习/03大模型、多模态/assets/QQ_1740571643369.png",
+    "Python深度学习/03大模型、多模态/assets/Pasted image 20250224192357.png",
+    "Python深度学习/03大模型、多模态/assets/Pasted image 20250224184239.png",
+    "Python深度学习/03大模型、多模态/assets/Pasted image 20250224183358.png",
+    "Python深度学习/04大模型、多模态/assets/attachments",
+    "Python深度学习/01李沐深度学习课程/assets",
+    "Python深度学习/01李沐深度学习课程/assets/attachments/01.pytorch线性回归实战.pdf",
+    "Python深度学习/03大模型、多模态/assets",
+    "assets",
+    "Python深度学习/医学影像智能计算实验室/组会",
+    "Python深度学习/医学影像智能计算实验室/ACM-MM2023-FundusEnhancement.pdf",
+    "Python深度学习/医学影像智能计算实验室/attachments",
+    "Python深度学习/医学影像智能计算实验室",
+    "Python深度学习/04推荐系统",
     "未命名.canvas"
   ]
 }
